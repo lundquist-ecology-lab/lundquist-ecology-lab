@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matthew Lundquist, an assistant professor of Ecology abd Biology at Marymount Manhattan College
+- 👋 Hi, I’m Matthew Lundquist, an assistant professor of Biology and Ecology at Marymount Manhattan College
 - 👀 I’m interested in ecology, biostatistics, machine learning, and modeling of ecological phenomenon, particularly in relation to urbanization and other anthropogenic forces.
 - 📫 LundquistEcologyLab@gmail.com or mlundquist@mmm.edu
 
